@@ -1,2 +1,2 @@
-# Perceptron
-A neural network study.
+# A neural network study.
+Perceptron
