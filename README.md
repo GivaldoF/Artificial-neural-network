@@ -26,3 +26,5 @@
   - [ ] Chapter 22
   - [ ] Chapter 23
   
+  ### Papers
+  - [ ] A Few Useful Things to Know about Machine Learning
