@@ -9,7 +9,7 @@
   - [x] Chapter 5
   - [x] Chapter 6
   - [x] Chapter 7
-  - [ ] Chapter 8
+  - [x] Chapter 8
   - [ ] Chapter 9
   - [ ] Chapter 10
   - [ ] Chapter 11
@@ -32,3 +32,6 @@
 
 ### Papers
 - [ ] A Few Useful Things to Know about Machine Learning
+
+### Courses
+- [ ] Machine Learning - Coursera - Andrew Ng
